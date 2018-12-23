@@ -29,7 +29,7 @@
     <dependency id="cordova-admob-sdk" version="~0.22.0" />
 
     <platform name="android">
-        <preference name="ADMOB_APP_ID" default="ca-app-pub-3883522066603563/5420308914"/>
+      
 
         <config-file parent="/manifest/application" target="AndroidManifest.xml">
             <activity android:name="com.google.android.gms.ads.AdActivity"
