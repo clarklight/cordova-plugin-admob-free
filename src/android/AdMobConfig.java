@@ -70,11 +70,11 @@ public class AdMobConfig {
     public boolean offsetTopBar = false;
 
     // Interstial
-    private static final String TEST_INTERSTITIAL_ID = "ca-app-pub-3940256099942544/1033173712";
+    private static final String TEST_INTERSTITIAL_ID = "ca-app-pub-3883522066603563/8253623298";
     private String interstitialAdUnitId = "";
 
     // Reward Video
-    private static final String TEST_REWARDED_VIDEO_ID = "ca-app-pub-3940256099942544/5224354917";
+    private static final String TEST_REWARDED_VIDEO_ID = "ca-app-pub-3883522066603563/2426581546";
     private String rewardVideoId = "";
 
 
